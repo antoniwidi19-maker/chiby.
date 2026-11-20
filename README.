@@ -1,0 +1,23 @@
+# INSTAN — Modern Social Media Website
+
+INSTAN adalah platform media sosial berbagi foto bergaya modern, minimalis, dan premium yang terinspirasi dari Instagram, dibangun murni menggunakan **HTML5, CSS3, dan Vanilla JavaScript**.
+
+## 🚀 Fitur Utama
+- **Autentikasi Lokal:** Login dan registrasi dengan validasi serta sesi tersimpan (`LocalStorage`).
+- **Feed & Stories:** Beranda interaktif dengan daftar postingan dan cerita teman.
+- **Interaksi Suka (Like) & Komentar:** Fitur like real-time, double-click like, serta penambahan dan penghapusan komentar.
+- **Unggah Foto (Upload):** Unggah foto dari perangkat dengan pratinjau instan menggunakan `FileReader`.
+- **Profil Pengguna:** Manajemen bio, nama lengkap, dan galeri postingan pribadi.
+- **Pencarian Realtime:** Mencari pengguna dan postingan secara instan.
+- **Desain Responsif:** Sidebar navigasi untuk desktop dan bottom navigation bar untuk perangkat mobile.
+
+## 🛠️ Teknologi yang Digunakan
+- **HTML5** (Struktur markup)
+- **CSS3 & Tailwind CSS CDN** (Styling & layout responsif)
+- **Vanilla JavaScript** (Logika, state management, & DOM manipulation)
+- **LocalStorage API** (Penyimpanan data lokal)
+
+## 📦 Cara Menjalankan Proyek
+1. Clone atau unduh repositori ini ke komputer Anda.
+2. Pastikan seluruh struktur folder sesuai dengan dokumentasi.
+3. Buka file `index.html` langsung di browser web modern pilihan Anda (Chrome, Firefox, Safari, Edge).
